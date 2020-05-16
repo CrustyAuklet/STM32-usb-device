@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(STM32_USB_Device_library
-        VERSION 2.5.3
+        VERSION 2.6.0
         DESCRIPTION "STM32L4xx USB Device Library"
         LANGUAGES C ASM)
 
